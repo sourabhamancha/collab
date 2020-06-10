@@ -3,9 +3,13 @@
 React.js application over Firebase database.
 
 --> Register an account and login. 
---> Add new meetings and add attendees to your meetings. 
+
+--> Add new meetings and add attendees to your meetings.
+
 --> Mark your favourite attendees. 
+
 --> Search for attendees and delete them.
+
 
 ## Home
 
