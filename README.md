@@ -1,4 +1,32 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Home
+
+![](images/collab-home.gif)
+
+## Register
+
+![](images/register.png)
+
+## Login
+
+![](images/login.png)
+
+## Profile Home
+
+![](images/profile-home.png)
+
+## Your Collabs
+
+![](images/your-collabs.png)
+
+## Add Attendees
+
+![](images/add-attendees.gif)
+
+## Action on Attendees
+
+![](images/action-attendees.gif)
+
+
 
 ## Available Scripts
 
